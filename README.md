@@ -1,4 +1,4 @@
-# Python Port Scanner
+#Python Port Scanner
 
 A simple Python-based port scanner used for cybersecurity learning and basic network analysis.
 
@@ -8,7 +8,7 @@ A simple Python-based port scanner used for cybersecurity learning and basic net
 
 1. Clone the repository
 
-git clone https://github.com/your-username/python-port-scanner.git
+git clone https://github.com/Debangshu2005-cyber/python-port-scanner.git
 
 2. Go to the project directory
 

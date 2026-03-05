@@ -22,3 +22,7 @@ python3 port_scanner.py
 ## Author
 Debangshu Sasmal
 Cybersecurity Student
+
+## Screenshot
+
+![Port Scanner Output](screenshots/Screenshot 2026-03-05 181636.png)
